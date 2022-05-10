@@ -1,0 +1,1 @@
+open class Content (open val id: Int, open var deleted: Boolean)
